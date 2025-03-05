@@ -46,4 +46,3 @@ public class praticando_aula1 {
         sc.close();
     }
 }
-
